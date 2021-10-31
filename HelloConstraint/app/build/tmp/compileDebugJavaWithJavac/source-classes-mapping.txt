@@ -1,0 +1,4 @@
+com/anhnnd/helloconstraint/MainActivity.java
+ com.anhnnd.helloconstraint.MainActivity
+com/anhnnd/helloconstraint/BuildConfig.java
+ com.anhnnd.helloconstraint.BuildConfig
