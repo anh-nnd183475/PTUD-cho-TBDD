@@ -6,9 +6,7 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78756f5d-32ae-439e-8b0b-3db0d67bbe12" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../CalculatorApp/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CalculatorApp/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-    </list>
+    <list default="true" id="78756f5d-32ae-439e-8b0b-3db0d67bbe12" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -116,5 +114,11 @@
       <updated>1635751307174</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="498" height="448" key="SwitcherDM" timestamp="1635758045755">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="498" height="448" key="SwitcherDM/0.0.1920.1050@0.0.1920.1050" timestamp="1635758045755" />
   </component>
 </project>
