@@ -1,0 +1,4 @@
+#Sun Oct 31 15:52:50 ICT 2021
+base.0=C\:\\Users\\LENOVO\\OneDrive\\Documents\\GitHub\\PTUD-cho-TBDD\\CalculatorApp\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
