@@ -1,0 +1,4 @@
+#Mon Nov 01 18:10:58 ICT 2021
+base.0=D\:\\a_tai_lieu\\20211-PTUD cho TBDD\\FormWeek6\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
